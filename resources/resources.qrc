@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/circle.png</file>
+        <file>images/hexagon.png</file>
+        <file>images/line.png</file>
+        <file>images/magnifier.png</file>
+        <file>images/mouse.png</file>
+        <file>images/pen.png</file>
+        <file>images/pentagon.png</file>
+        <file>images/rect.png</file>
+        <file>images/stars.png</file>
+        <file>images/T.png</file>
+        <file>images/dashDotDotLine.png</file>
+        <file>images/dashDotLine.png</file>
+        <file>images/dashline.png</file>
+        <file>images/Dotline.png</file>
+        <file>images/solidLine.png</file>
+    </qresource>
+</RCC>
